@@ -8,9 +8,9 @@
 // Version : 1.0
 // Inspired by the DESIRE to be the BEST OF ALL
 // ----------------------------------------------------------
-// Started by: Alons
-// Date:       8th Mar 2010
-// Time:       23:00 hrs
+// Started by: Joel Emanoel, Rafael Burjack and Aldemaro Campos
+// Date:       15th Aug 2021
+// Time:       17:00 hrs
 // Site:       https://www.virtualizor.com/ (SOFTACULOUS VIRTUALIZOR)
 // ----------------------------------------------------------
 // Please Read the Terms of use at https://www.virtualizor.com
