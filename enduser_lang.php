@@ -21,9 +21,9 @@
 //////////////////////////////////////////////////////////////
 
 // Header
-$l['add'] = 'Add';
-$l['remove'] = 'Remove';
-$l['update'] = 'Update';
+$l['add'] = 'Adicionar';
+$l['remove'] = 'Remover';
+$l['update'] = 'Atualizar';
 $l['new'] = 'New';
 $l['servers'] = 'Servers';
 $l['go'] = 'Go';
